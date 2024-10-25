@@ -256,7 +256,7 @@ body{
         display:grid;
         align-items: start;
         justify-content: start;
-        left: 5px;
+        left: 10px;
         gap: 15px;
         top: 10%;
         width: 360px;
