@@ -70,7 +70,7 @@ body{
     background-color: rgba(10, 5, 5, 0.836);
     opacity: 100%;
     width: 60%;
-    height: 100%;
+    height: auto;
     display: block;
     border-radius: 15px;
     padding: 24.5px;
