@@ -329,9 +329,9 @@ body{
         gap: 15px;
         top: 20%;
         width: 360px;
-        heigth: auto;
     }
     .coluna-um{
+        width: 60%;
         height: auto;
     }
 
