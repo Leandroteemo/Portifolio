@@ -297,7 +297,7 @@ body{
 }
 
 /* Responsividade tablet */
-@media (min-width: 768px) and (max-width: 900px){
+@media (min-width: 768px){
     .body{
         width:100% ;
         height: auto;
