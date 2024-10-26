@@ -294,3 +294,71 @@ body{
 }
 
 /* Responsividade tablet */
+@media (min-width: 768px){
+    .body{
+        width:100% ;
+        height: auto;
+    }
+    .parteum{
+        height: 1200px;
+    }
+    .navbar {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content:center;
+        height: auto;
+        padding-top: 5px;
+        padding-left: 0px;
+    }
+
+    .navbar-links a {
+        font-size: 16px;
+        margin: 5px 0;
+        padding-left: 10px;
+    }
+
+    .duas-colunas {
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        left: 30%;
+        gap: 15px;
+        top: 20%;
+        width: 360px;
+    }
+    .coluna-um{
+        width: 60%;
+        height: auto;
+    }
+
+    .coluna-dois{
+       padding-left: 30px;
+    }
+
+    .dois-botao{
+        padding-top: 12px;
+        gap: 10px;
+    }
+
+    .coluna-um, .coluna-dois {
+        width: 90%;
+    }
+
+    .coluna-um h1 {
+        font-size: 22px;
+    }
+
+    .coluna-um h2 {
+        font-size:26px;
+    }
+
+    .coluna-um p{
+        font-size: 16px;
+    } 
+
+    .botao-um, .botao-dois {
+        width: 140px;
+        height: 60px;
+    }
+}
