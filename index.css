@@ -272,10 +272,6 @@ body{
         gap: 10px;
     }
 
-    .coluna-um, .coluna-dois {
-        width: 90%;
-    }
-
     .coluna-um h1 {
         font-size: 22px;
     }
